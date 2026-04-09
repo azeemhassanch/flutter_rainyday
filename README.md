@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azeemhassanch/flutter_rainyday/main/screenshots/demo.png" width="280" alt="rainy_day screenshot" />
+  <img src="screenshots/demo.png" width="280" alt="rainy_day screenshot" />
 </p>
 
 <h1 align="center">rainy_day</h1>
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/azeemhassanch/flutter_rainyday/main/screenshots/rainy_day_demo.gif" width="280" alt="rainy_day demo" />
+  <img src="screenshots/rainy_day_demo.gif" width="280" alt="rainy_day demo" />
 </p>
 
 ---
