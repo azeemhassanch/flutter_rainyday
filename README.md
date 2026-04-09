@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/demo.png" width="280" alt="rainy_day screenshot" />
-</p>
-
 <h1 align="center">rainy_day</h1>
 
 <p align="center">
@@ -18,6 +14,8 @@
 </p>
 
 <p align="center">
+  <img src="screenshots/demo.png" width="280" alt="rainy_day screenshot" />
+  &nbsp;&nbsp;
   <img src="screenshots/rainy_day_demo.gif" width="280" alt="rainy_day demo" />
 </p>
 
