@@ -1,0 +1,39 @@
+name: rainy_day
+description: Hyper-realistic rain-on-glass effect for Flutter. Renders falling drops with miniature reflections, collisions, trails, wind gusts, and accelerometer-driven parallax over a blurred background image.
+version: 1.0.0
+homepage: https://github.com/azeemhassanch/flutter_rainyday
+repository: https://github.com/azeemhassanch/flutter_rainyday
+issue_tracker: https://github.com/azeemhassanch/flutter_rainyday/issues
+
+environment:
+  sdk: ^3.11.4
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sensors_plus: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+
+topics:
+  - rain
+  - animation
+  - effects
+  - weather
+  - ui
+
+screenshots:
+  - description: Rain on glass effect demo
+    path: screenshots/demo.png
+  - description: Rain on glass animated preview
+    path: screenshots/rainy_day_demo.gif
+
+platforms:
+  android:
+  ios:
